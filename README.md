@@ -40,4 +40,6 @@ This project aims to enhance the conversational acuity of Large Language Models 
 
 ### Contributing
 
-Contributions are welcome! Please submit issues and pull requests via GitHub. Ensure you follow the coding standards and include tests for new features.
+Contributions are welcome! Please submit issues and pull requests via GitHub.
+
+
